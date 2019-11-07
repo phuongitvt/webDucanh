@@ -1,0 +1,32 @@
+RewriteEngine on
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+#RewriteCond %{HTTP_HOST} ^backend\.kientruc\.com [NC]
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://backend.kientruc.com/$1 [R,L]
+
+#RewriteCond %{HTTP_HOST} ^www\.kientruc\.com [NC]
+#RewriteCond %{SERVER_PORT} 443
+#RewriteRule ^(.*)$ https://www.kientruc.com/$1 [R=301,L]
+
+#RewriteRule ^login$ https://kientruc.com/login [R=301,L]
+
+# prevent directory listing
+Options -Indexes
+# follow sybolic links
+Options FollowSymlinks
+IndexIgnore */*
+
+php_value max_file_uploads 40
+
+# if a directory or a file exists, use the request directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteRule ^quanli(/.+)?$ backend/web/$1 [L,PT]
+RewriteRule ^quanli/(.+)?$ backend/web/$1 [L,PT]
+
+RewriteRule ^/$ frontend/web/$1 [L,PT]
+RewriteRule ^(.+)?$ frontend/web/$1 [L,PT]
