@@ -1,0 +1,525 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d76cc12c-76c8-4a1d-8f9c-c3a7624e9059\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/frontend/views/site/about.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/frontend/views/site/about.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/frontend/views/site/index.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/frontend/views/site/index.php\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\" synchronizationState=\"SYNCHRONIZE\">\r\n    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>\r\n  </component>\r\n  <component name=\"FUSProjectUsageTrigger\">\r\n    <session id=\"-1859496185\">\r\n      <usages-collector id=\"statistics.lifecycle.project\">\r\n        <counts>\r\n          <entry key=\"project.open.time.3\" value=\"1\" />\r\n          <entry key=\"project.opened\" value=\"1\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.open\">\r\n        <counts>\r\n          <entry key=\"php\" value=\"3\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.open\">\r\n        <counts>\r\n          <entry key=\"PHP\" value=\"3\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.edit\">\r\n        <counts>\r\n          <entry key=\"php\" value=\"68\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.edit\">\r\n        <counts>\r\n          <entry key=\"PHP\" value=\"68\" />\r\n        </counts>\r\n      </usages-collector>\r\n    </session>\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/frontend/views/site/about.php\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"289\">\r\n              <caret line=\"17\" column=\"4\" selection-start-line=\"17\" selection-start-column=\"4\" selection-end-line=\"17\" selection-end-column=\"4\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/frontend/views/site/index.php\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"119\">\r\n              <caret line=\"7\" column=\"37\" selection-start-line=\"7\" selection-start-column=\"37\" selection-end-line=\"7\" selection-end-column=\"37\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/.gitignore\" />\r\n        <option value=\"$PROJECT_DIR$/frontend/config/.gitignore\" />\r\n        <option value=\"$PROJECT_DIR$/backend/config/.gitignore\" />\r\n        <option value=\"$PROJECT_DIR$/common/config/.gitignore\" />\r\n        <option value=\"$PROJECT_DIR$/common/config/params-local.php\" />\r\n        <option value=\"$PROJECT_DIR$/frontend/views/site/about.php\" />\r\n        <option value=\"$PROJECT_DIR$/frontend/views/site/index.php\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\r\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\r\n  <component name=\"JsGulpfileManager\">\r\n    <detection-done>true</detection-done>\r\n    <sorting>DEFINITION_ORDER</sorting>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"675\" />\r\n    <option name=\"width\" value=\"698\" />\r\n    <option name=\"height\" value=\"735\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"yii2-admin-phuong\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"yii2-admin-phuong\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"yii2-admin-phuong\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"yii2-admin-phuong\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"backend\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"yii2-admin-phuong\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"yii2-admin-phuong\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"backend\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"controllers\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"yii2-admin-phuong\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"yii2-admin-phuong\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"frontend\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"yii2-admin-phuong\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"yii2-admin-phuong\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"frontend\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"views\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"yii2-admin-phuong\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"yii2-admin-phuong\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"frontend\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"views\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"site\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n      <pane id=\"Scope\" />\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/common/config\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\xampp\\htdocs\\webBatdongsan2\\common\\config\" />\r\n      <recent name=\"C:\\xampp\\htdocs\\webBatdongsan2\" />\r\n      <recent name=\"C:\\xampp\\htdocs\\webBatdongsan2\\frontend\\web\" />\r\n      <recent name=\"C:\\xampp\\htdocs\\webBatdongsan2\\frontend\\config\" />\r\n      <recent name=\"C:\\xampp\\htdocs\\webBatdongsan2\\backend\\web\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d76cc12c-76c8-4a1d-8f9c-c3a7624e9059\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1573137834726</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1573137834726</updated>\r\n      <workItem from=\"1573137835976\" duration=\"2213000\" />\r\n      <workItem from=\"1573143922201\" duration=\"58000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"2271000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-7\" y=\"-7\" width=\"1550\" height=\"838\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.1818792\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Favorites\" order=\"2\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"7\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"8\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"9\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"10\" visible=\"true\" weight=\"0.2266289\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"11\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"3\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"VcsContentAnnotationSettings\">\r\n    <option name=\"myLimit\" value=\"2678400000\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/backend/config/main-local.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/frontend/config/codeception-local.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/codeception.yml\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/.gitignore\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"17\">\r\n          <caret line=\"1\" column=\"8\" selection-start-line=\"1\" selection-start-column=\"8\" selection-end-line=\"1\" selection-end-column=\"8\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/frontend/config/.gitignore\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/backend/config/.gitignore\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/common/config/.gitignore\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/backend/web/.htaccess\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"85\">\r\n          <caret line=\"5\" column=\"23\" lean-forward=\"true\" selection-start-line=\"5\" selection-start-column=\"23\" selection-end-line=\"5\" selection-end-column=\"23\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/frontend/web/.htaccess\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"85\">\r\n          <caret line=\"5\" column=\"23\" lean-forward=\"true\" selection-start-line=\"5\" selection-start-column=\"23\" selection-end-line=\"5\" selection-end-column=\"23\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/.htaccess\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"272\">\r\n          <caret line=\"16\" column=\"22\" lean-forward=\"true\" selection-start-line=\"16\" selection-start-column=\"22\" selection-end-line=\"16\" selection-end-column=\"22\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/common/config/codeception-local.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/common/config/main-local.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"85\">\r\n          <caret line=\"5\" column=\"54\" selection-start-line=\"5\" selection-start-column=\"50\" selection-end-line=\"5\" selection-end-column=\"54\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/common/config/params.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/common/config/params-local.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"51\">\r\n          <caret line=\"3\" column=\"2\" lean-forward=\"true\" selection-start-line=\"3\" selection-start-column=\"2\" selection-end-line=\"3\" selection-end-column=\"2\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/backend/controllers/SiteController.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/frontend/views/site/about.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"289\">\r\n          <caret line=\"17\" column=\"4\" selection-start-line=\"17\" selection-start-column=\"4\" selection-end-line=\"17\" selection-end-column=\"4\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/frontend/views/site/index.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"119\">\r\n          <caret line=\"7\" column=\"37\" selection-start-line=\"7\" selection-start-column=\"37\" selection-end-line=\"7\" selection-end-column=\"37\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1573144001000)
++++ .idea/workspace.xml	(date 1573145084286)
+@@ -2,8 +2,9 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="d76cc12c-76c8-4a1d-8f9c-c3a7624e9059" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/frontend/views/site/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/site/about.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/frontend/views/site/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/site/index.php" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/webBatdongsan2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webBatdongsan2.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -24,11 +25,13 @@
+       </usages-collector>
+       <usages-collector id="statistics.file.extensions.open">
+         <counts>
++          <entry key="js" value="1" />
+           <entry key="php" value="3" />
+         </counts>
+       </usages-collector>
+       <usages-collector id="statistics.file.types.open">
+         <counts>
++          <entry key="JavaScript" value="1" />
+           <entry key="PHP" value="3" />
+         </counts>
+       </usages-collector>
+@@ -43,19 +46,22 @@
+         </counts>
+       </usages-collector>
+     </session>
++  </component>
++  <component name="FavoritesManager">
++    <favorites_list name="yii2-admin-phuong" />
+   </component>
+   <component name="FileEditorManager">
+     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file pinned="false" current-in-tab="false">
++      <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/frontend/views/site/about.php">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="289">
+-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
++            <state relative-caret-position="287">
++              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file pinned="false" current-in-tab="true">
++      <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/frontend/views/site/index.php">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="119">
+@@ -87,6 +93,115 @@
+   <component name="JsGulpfileManager">
+     <detection-done>true</detection-done>
+     <sorting>DEFINITION_ORDER</sorting>
++  </component>
++  <component name="NodePackageJsonFileManager">
++    <packageJsonPaths>
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/Flot/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/bootstrap-colorpicker/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/bootstrap-datepicker/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/bootstrap-daterangepicker/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/bootstrap/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/ckeditor/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/eve-raphael/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/ion.rangeSlider/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/jquery-knob/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/jquery-slimscroll/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/jquery-ui/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/morris.js/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/seiyria-bootstrap-slider/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/bower_components/select2/package.json" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte/package.json" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap/package.json" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask/package.json" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery/package.json" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode/package.json" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js/package.json" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax/package.json" />
++      <path value="$PROJECT_DIR$/vendor/fortawesome/font-awesome/package.json" />
++    </packageJsonPaths>
++  </component>
++  <component name="PhpWorkspaceProjectConfiguration">
++    <include_path>
++      <path value="$PROJECT_DIR$/vendor/composer" />
++      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
++      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
++      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
++      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
++      <path value="$PROJECT_DIR$/vendor/codeception/base" />
++      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
++      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
++      <path value="$PROJECT_DIR$/vendor/fortawesome/font-awesome" />
++      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
++      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
++      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
++      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
++      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
++      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
++      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
++      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
++      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
++      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
++      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
++      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
++      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
++      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
++      <path value="$PROJECT_DIR$/vendor/symfony/console" />
++      <path value="$PROJECT_DIR$/vendor/rmrevin/yii2-fontawesome" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
++      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
++      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
++      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
++      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
++      <path value="$PROJECT_DIR$/vendor/dmstr/yii2-adminlte-asset" />
++      <path value="$PROJECT_DIR$/vendor/mdmsoft/yii2-admin" />
++      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
++      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
++      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
++      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
++      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
++      <path value="$PROJECT_DIR$/vendor/psr/container" />
++      <path value="$PROJECT_DIR$/vendor/cebe/yii2-gravatar" />
++      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
++      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
++      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
++    </include_path>
+   </component>
+   <component name="ProjectFrameBounds" extendedState="6">
+     <option name="x" value="675" />
+@@ -105,35 +220,6 @@
+             <path>
+               <item name="yii2-admin-phuong" type="b2602c69:ProjectViewProjectNode" />
+               <item name="yii2-admin-phuong" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="yii2-admin-phuong" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="yii2-admin-phuong" type="462c0819:PsiDirectoryNode" />
+-              <item name="backend" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="yii2-admin-phuong" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="yii2-admin-phuong" type="462c0819:PsiDirectoryNode" />
+-              <item name="backend" type="462c0819:PsiDirectoryNode" />
+-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="yii2-admin-phuong" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="yii2-admin-phuong" type="462c0819:PsiDirectoryNode" />
+-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="yii2-admin-phuong" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="yii2-admin-phuong" type="462c0819:PsiDirectoryNode" />
+-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+-              <item name="views" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="yii2-admin-phuong" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="yii2-admin-phuong" type="462c0819:PsiDirectoryNode" />
+-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+-              <item name="views" type="462c0819:PsiDirectoryNode" />
+-              <item name="site" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+           <select />
+@@ -180,32 +266,41 @@
+       <option name="presentableId" value="Default" />
+       <updated>1573137834726</updated>
+       <workItem from="1573137835976" duration="2213000" />
+-      <workItem from="1573143922201" duration="58000" />
++      <workItem from="1573143922201" duration="1120000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="2271000" />
++    <option name="totallyTimeSpent" value="3333000" />
++  </component>
++  <component name="TodoView" selected-index="2">
++    <todo-panel id="selected-file">
++      <is-autoscroll-to-source value="true" />
++    </todo-panel>
++    <todo-panel id="all">
++      <are-packages-shown value="true" />
++      <is-autoscroll-to-source value="true" />
++    </todo-panel>
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+     <editor active="true" />
+     <layout>
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
+-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info id="Favorites" order="2" side_tool="true" />
++      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.1818792" />
++      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.1818792" />
++      <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.1818792" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+       <window_info anchor="bottom" id="Run" order="2" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="bottom" id="TODO" order="6" />
++      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.48016998" />
+       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Version Control" order="9" />
+-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2266289" />
+-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
++      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4986577" visible="true" weight="0.3286119" />
++      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.28895184" />
++      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013423" side_tool="true" weight="0.3286119" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+@@ -214,6 +309,32 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="1" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="RECENTLY_FILTERED_USER_GROUPS">
++                <collection />
++              </option>
++              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
++                <collection />
++              </option>
++              <option name="COLUMN_ORDER">
++                <list>
++                  <option value="0" />
++                  <option value="1" />
++                  <option value="2" />
++                  <option value="3" />
++                </list>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsContentAnnotationSettings">
+     <option name="myLimit" value="2678400000" />
+@@ -288,17 +409,24 @@
+     <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+       <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/frontend/views/site/about.php">
++    <entry file="file://$PROJECT_DIR$/frontend/views/site/index.php">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="289">
+-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
++        <state relative-caret-position="119">
++          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/frontend/views/site/index.php">
++    <entry file="file://$PROJECT_DIR$/backend/web/css/jquery-ui.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="119">
+-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
++        <state relative-caret-position="113">
++          <caret line="154" column="11" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/frontend/views/site/about.php">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="287">
++          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+         </state>
+       </provider>
+     </entry>
+Index: .idea/php.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"PhpProjectSharedConfiguration\" php_language_level=\"5.4.0\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/php.xml	(date 1573144001000)
++++ .idea/php.xml	(date 1573144035693)
+@@ -1,4 +1,87 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="PhpIncludePathManager">
++    <include_path>
++      <path value="$PROJECT_DIR$/vendor/composer" />
++      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
++      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
++      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
++      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
++      <path value="$PROJECT_DIR$/vendor/codeception/base" />
++      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
++      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
++      <path value="$PROJECT_DIR$/vendor/fortawesome/font-awesome" />
++      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
++      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
++      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
++      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
++      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
++      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
++      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
++      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
++      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
++      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
++      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
++      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
++      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
++      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
++      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
++      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
++      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
++      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
++      <path value="$PROJECT_DIR$/vendor/symfony/console" />
++      <path value="$PROJECT_DIR$/vendor/rmrevin/yii2-fontawesome" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
++      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
++      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
++      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
++      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
++      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
++      <path value="$PROJECT_DIR$/vendor/dmstr/yii2-adminlte-asset" />
++      <path value="$PROJECT_DIR$/vendor/mdmsoft/yii2-admin" />
++      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
++      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
++      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
++      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
++      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
++      <path value="$PROJECT_DIR$/vendor/psr/container" />
++      <path value="$PROJECT_DIR$/vendor/cebe/yii2-gravatar" />
++      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
++      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
++      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
++    </include_path>
++  </component>
+   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
+ </project>
+\ No newline at end of file
+Index: .idea/webBatdongsan2.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"WEB_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/webBatdongsan2.iml	(date 1573144001000)
++++ .idea/webBatdongsan2.iml	(date 1573144035686)
+@@ -1,7 +1,87 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module type="WEB_MODULE" version="4">
+   <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/vendor/almasaeed2010/adminlte" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/behat/gherkin" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/bootstrap" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/inputmask" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/jquery" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/punycode" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/typeahead.js" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/yii2-pjax" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/cebe/markdown" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/cebe/yii2-gravatar" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/base" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/phpunit-wrapper" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/stub" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/verify" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/dmstr/yii2-adminlte-asset" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/ezyang/htmlpurifier" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/fortawesome/font-awesome" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/psr7" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/mdmsoft/yii2-admin" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/myclabs/deep-copy" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phar-io/manifest" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phar-io/version" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-common" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/type-resolver" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpspec/php-diff" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-code-coverage" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-file-iterator" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-text-template" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-timer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-token-stream" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/phpunit" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/phpunit-mock-objects" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-message" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/ralouphie/getallheaders" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/rmrevin/yii2-fontawesome" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/comparator" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/diff" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/environment" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/exporter" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/global-state" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/object-enumerator" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/object-reflector" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/recursion-context" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/resource-operations" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/version" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/browser-kit" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/css-selector" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher-contracts" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/finder" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-ctype" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-iconv" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php72" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/service-contracts" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/yaml" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/theseer/tokenizer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/webmozart/assert" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-bootstrap" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-composer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-debug" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-faker" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-gii" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-swiftmailer" />
++    </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
