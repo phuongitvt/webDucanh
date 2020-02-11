@@ -3,7 +3,7 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=doan',
+            'dsn' => 'mysql:host=localhost;dbname=game_new',
             'username' => 'root',
             'password' => '',
             'charset' => 'utf8',
